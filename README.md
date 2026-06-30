@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +22,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
