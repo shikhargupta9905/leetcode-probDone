@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
@@ -84,5 +85,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
