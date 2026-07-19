@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
