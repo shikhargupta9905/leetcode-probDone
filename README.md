@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0056-merge-intervals) |
 ## String
 |  |
 | ------- |
