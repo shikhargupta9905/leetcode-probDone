@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
