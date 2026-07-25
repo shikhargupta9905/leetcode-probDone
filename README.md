@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
