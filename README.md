@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
