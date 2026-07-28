@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1552-magnetic-force-between-two-balls) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
