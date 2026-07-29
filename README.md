@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -195,4 +198,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
