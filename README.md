@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1552-magnetic-force-between-two-balls) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
