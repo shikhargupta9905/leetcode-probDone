@@ -1,8 +1,15 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n = word.length();
-        int blocks = n/8;
-        return (blocks*(blocks+1)*4)+(n%8)*(blocks+1);
+        int cnt =0;
+        unordered_map<int, int> mp;
+        int st =2;
+        for(char &ch:word){
+            if (st>9){ st=2;}
+            mp[st]++;
+            cnt+=mp[st];
+            st++;
+        }
+        return cnt ;
     }
 };
