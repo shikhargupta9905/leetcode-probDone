@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -238,4 +241,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1009-complement-of-base-10-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
