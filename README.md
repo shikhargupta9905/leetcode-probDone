@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0142-linked-list-cycle-ii) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0151-reverse-words-in-a-string) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0628-maximum-product-of-three-numbers) |
