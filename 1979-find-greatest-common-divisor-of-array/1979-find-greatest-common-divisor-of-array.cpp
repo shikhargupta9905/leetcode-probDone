@@ -1,8 +1,12 @@
 class Solution {
 public:
-int Gcd(int i , int j ){
-    if (j==0) return i;
-    return Gcd(j, i%j);
+int Gcd(int a , int b ){
+    while (b!=0){
+        int temp =b;
+        b=a%b;
+        a= temp;
+    }
+    return a ;
 }
     int findGCD(vector<int>& nums) {
         sort(nums.begin(), nums.end());
