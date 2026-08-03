@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1552-magnetic-force-between-two-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3536-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -215,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |
