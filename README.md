@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1552-magnetic-force-between-two-balls) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3536-maximum-product-of-two-digits) |
@@ -264,4 +266,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
