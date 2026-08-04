@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1009-complement-of-base-10-integer) |
 ## Sliding Window
