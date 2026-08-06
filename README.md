@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0014-longest-common-prefix) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3345-smallest-divisible-digit-product-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
