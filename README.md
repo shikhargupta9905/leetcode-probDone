@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3731-find-missing-elements) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
