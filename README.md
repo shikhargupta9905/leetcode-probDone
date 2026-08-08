@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0143-reorder-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
