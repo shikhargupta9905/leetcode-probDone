@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -309,11 +312,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -340,4 +345,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0141-linked-list-cycle) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
