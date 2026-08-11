@@ -9,18 +9,14 @@ public:
             }
             else break;
         }
-        while(true){
-            bool  found = false;
-            for(int num:nums){
-                if(num== sum){
-                    found=true;
-                    break;
-                }
-            }
-            if(!found){
-                return sum;
-            }
-             sum++;
+        vector<bool> hashTable(1276, false);
+
+        for(int num : nums){
+            hashTable[num]=true;
         }
+        while(hashTable[sum]){
+            sum++;
+        }
+        return sum;
     }
 };
