@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
@@ -356,4 +357,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
