@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
@@ -431,4 +433,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
