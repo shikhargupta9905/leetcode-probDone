@@ -411,4 +411,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0111-minimum-depth-of-binary-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
