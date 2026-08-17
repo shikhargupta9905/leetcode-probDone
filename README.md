@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1552-magnetic-force-between-two-balls) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -319,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 ## Game Theory
 |  |
 | ------- |
@@ -422,4 +427,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
