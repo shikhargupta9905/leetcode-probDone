@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0213-house-robber-ii) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
@@ -424,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
@@ -445,4 +449,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
