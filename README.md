@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1510-stone-game-iv) |
