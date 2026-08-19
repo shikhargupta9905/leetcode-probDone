@@ -1,31 +1,39 @@
+
 class Solution {
 public:
-    static int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        const int m=reservedSeats.size();
-        unordered_map<int, uint8_t> seat;
-        seat.reserve(m);
-        for(auto& r: reservedSeats){
-            const int i=r[0]-1, j=r[1]-2;
-            if (j<0 || j>=8) continue;
-            seat[i]|=1<<j;
+    int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
+        int ans=n*2;
+        sort(reservedSeats.begin(),reservedSeats.end());
+        for(int i=0;i<reservedSeats.size();i++){
+            int curr=reservedSeats[i][0];
+            int flag25=1;
+            int flag47=1;
+            int flag69=1;
+
+            while(i<reservedSeats.size()&&reservedSeats[i][0]==curr){
+                if(reservedSeats[i][1]>=2&&reservedSeats[i][1]<=5){
+                    flag25=0;
+                    if(reservedSeats[i][1]>=4&&reservedSeats[i][1]<=5){
+                        flag47=0;
+                    }
+                }else if(reservedSeats[i][1]>=6&&reservedSeats[i][1]<=9){
+                    flag69=0;
+                    if(reservedSeats[i][1]>=6&&reservedSeats[i][1]<=7){
+                        flag47=0;
+                    }
+                }
+                i++;
+
+            }
+           if(flag69==0&&flag25==0&&flag47==0){
+            ans--;
+            ans--;
+           }else if(flag69==0||flag47==0||flag25==0){
+            ans--;
+           }
+           i--;
+           
         }
-        int sz=seat.size(), cnt=(n-sz)*2;
-        const uint8_t A=15, B=15<<2, C=15<<4, D=A|C;
-        for(auto [_, S]: seat){
-            S=~S;
-            bool has2=(S&D)==D, 
-            has1=(!has2)&& ((S&A)==A||(S&B)==B ||(S&C)==C);
-            cnt+=has2<<1;
-            cnt+=has1;
-        }
-        return cnt;
+        return ans;
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
