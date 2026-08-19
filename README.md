@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
+| [1386-cinema-seat-allocation](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1472-design-browser-history) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
