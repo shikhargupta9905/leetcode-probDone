@@ -1,20 +1,15 @@
 class Solution {
- public:
-  bool sumGame(string num) {
-    const int n = num.length();
-    double ans = 0.0;
-
-    for (int i = 0; i < n / 2; ++i)
-      ans += getExpectation(num[i]);
-
-    for (int i = n / 2; i < n; ++i)
-      ans -= getExpectation(num[i]);
-
-    return ans != 0.0;
-  }
-
- private:
-  double getExpectation(char c) {
-    return c == '?' ? 4.5 : c - '0';
-  }
+public:
+    bool sumGame(string& num) {
+        const int n=num.size(), n2=n>>1;
+        int diff=0;
+        for(int i=0; i<n; i++){
+            const char c=num[i];
+            bool isq=c=='?', half=i<n2;
+            int sgn=(half<<1)-1;
+            int d=(-isq & 9)+(-!isq & (c-'0')<<1);
+            diff+=sgn*d;
+        }
+        return diff!=0;
+    }
 };
