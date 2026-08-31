@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -507,4 +511,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
+| [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
