@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -515,5 +518,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
