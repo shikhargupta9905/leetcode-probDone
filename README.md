@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0198-house-robber) |
