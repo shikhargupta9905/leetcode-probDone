@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -562,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
