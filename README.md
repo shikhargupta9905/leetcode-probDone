@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3525-find-x-value-of-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3731-find-missing-elements) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -606,4 +608,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0200-number-of-islands) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
