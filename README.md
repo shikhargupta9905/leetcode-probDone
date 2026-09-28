@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0096-unique-binary-search-trees) |
+| [0263-ugly-number](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
