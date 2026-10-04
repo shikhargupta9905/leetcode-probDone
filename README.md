@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1021-remove-outermost-parentheses) |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1927-sum-game) |
@@ -644,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
