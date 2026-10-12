@@ -1,48 +1,51 @@
 #include <vector>
+#include <queue>
 
 class Solution {
-private:
-    vector<pair<int , int >> dir{{1,0},{-1,0},{0,1},{0,-1}};
-    void dfs(std::vector<std::vector<char>>& grid, int r, int c) {
-        int m = grid.size();
-        int n = grid[0].size();
-        
-        // Base case: check boundary conditions and water cells ('0')
-        if (r < 0 || r >= m || c < 0 || c >= n || grid[r][c] != '1') {
-            return;
-        }
-        
-        // Mark the current cell as visited by setting it to '0'
-        grid[r][c] = '$';
-
-        
-        // Visit all 4 adjacent directions (up, down, left, right)
-        for(pair<int , int > &p: dir){
-            int k = r+p.first;
-            int l = c+p.second;
-            dfs(grid, k,l);
-        }
-    }
-
 public:
     int numIslands(std::vector<std::vector<char>>& grid) {
         if (grid.empty() || grid[0].empty()) {
             return 0;
         }
-        
-        int count = 0;
-        int m = grid.size();
-        int n = grid[0].size();
-        
-        for (int r = 0; r < m; ++r) {
-            for (int c = 0; c < n; ++c) {
+
+        int rows = grid.size();
+        int cols = grid[0].size();
+        int island_count = 0;
+
+        // Direction vectors for moving Up, Down, Left, Right
+        std::vector<std::pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+
+        for (int r = 0; r < rows; ++r) {
+            for (int c = 0; c < cols; ++c) {
+                // Found a new island
                 if (grid[r][c] == '1') {
-                    count++;
-                    dfs(grid, r, c); // Sink the connected island
+                    island_count++;
+                    grid[r][c] = '0'; // Mark as visited right away
+
+                    std::queue<std::pair<int, int>> q;
+                    q.push({r, c});
+
+                    // BFS traversal for the current island
+                    while (!q.empty()) {
+                        auto [curr_r, curr_c] = q.front();
+                        q.pop();
+
+                        // Check all 4 adjacent neighbors
+                        for (auto& dir : directions) {
+                            int next_r = curr_r + dir.first;
+                            int next_c = curr_c + dir.second;
+
+                            // Check boundaries and whether it's unvisited land
+                            if (next_r >= 0 && next_r < rows && next_c >= 0 && next_c < cols && grid[next_r][next_c] == '1') {
+                                grid[next_r][next_c] = '0'; // Mark as visited
+                                q.push({next_r, next_c});  // Add to queue for next level traversal
+                            }
+                        }
+                    }
                 }
             }
         }
-        
-        return count;
+
+        return island_count;
     }
 };
