@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0162-find-peak-element) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0342-power-of-four) |
