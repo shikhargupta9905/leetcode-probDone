@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1352-product-of-the-last-k-numbers) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0968-binary-tree-cameras) |
+| [1254-number-of-closed-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -632,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1254-number-of-closed-islands) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -670,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/shikhargupta9905/leetcode-probDone/tree/master/1254-number-of-closed-islands) |
 ## Segment Tree
 |  |
 | ------- |
